@@ -9,8 +9,8 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/botwea-termux-v2
-> cd botwea-termux-v2
+> git clone https://github.com/belajarbuatbot/botngntd
+> cd botngntd
 > bash install.sh
 ```
 
@@ -210,6 +210,8 @@ Follow The Steps Below!
 | FML2|✅|
 | Afk|✅|
 | Timer|✅|
+
+###EDIT BY ZAKY###
 
 ## HUB SAYA DENGAN:
 - [WhatsApp](wa.me/6281368646011)
