@@ -92,15 +92,14 @@ const { limit } = require('./database/menu/limit')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:SAD\n' //NAMA LU
+            + 'FN:Mr~Z\n' //NAMA LU
             + 'ORG:Owner Bot;\n' // NAMA CONTACT OWNER
-            + 'TEL;type=CELL;type=VOICE;waid=6285709343987:+62 857-0934-3987\n' // NOMER OWNER
+            + 'TEL;type=CELL;type=VOICE;waid=6285832079751:+62 858-3207-9751\n' // NOMER OWNER
             + 'END:VCARD'
 prefix = '.'//PREFIX BOT
 blocked = ['6283806369677']//NOMER BLOCK
-limitawal = '50'
-cr = '*BOT WHATSAPP*'
-
+limitawal = '20'
+cr = '*Z BOT*'
 // Functions
 const getLevelingXp = (userId) => {
             let position = false
