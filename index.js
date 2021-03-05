@@ -391,7 +391,7 @@ async function starts() {
         		const bisakah = ['Bisa','Tidak Bisa','Bisa Jadi','Kurang yakin','Pasti Bisa','Kaga Bakal Bisa']
 		        const kapankah = ['1 Hari Lagi','2 Minggu Lagi','1 Bulan Lagi','1 Tahun Lagi','3 Hari Lagi','1 Minggu Lagi','4 Bulan Lagi','3 Tahun Lagi','20 Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["6285709343987@s.whatsapp.net"] // Nomer Owner
+			const ownerNumber = ["6285832079751@s.whatsapp.net"] // Nomer Owner
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -414,9 +414,9 @@ async function starts() {
                         pushname = client.contacts[sender] != undefined ? client.contacts[sender].vname || client.contacts[sender].notify : undefined
 
                         // Options
-                        const botName = 'DARK BOT'//Nama Bot
-                        const ownerName = 'SAD'//Nama Owner
-                        const BarBarKey = 'YOUR_APIKEY'//Apikey Mhank Bar Bar
+                        const botName = 'Z BOT'//Nama Bot
+                        const ownerName = 'Mr~Z'//Nama Owner
+                        const BarBarKey = 'IDx01TFYnKAD1X4pxcHa'//Apikey Mhank Bar Bar
 
 			const isUrl = (url) => {
 			    return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)/, 'gi'))
